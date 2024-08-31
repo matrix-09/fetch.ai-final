@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #ece9e6, #ffffff);
+    display: flex;
+    justify-content: center;
+    align-items: flex-start; /* Changed alignment to start */
+    min-height: 100vh;
+    margin: 20px; /* Added margin for better spacing */
+}
+
+.container {
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 16px;
+    padding: 30px;
+    max-width: 900px;
+    width: 100%; /* Ensure full width on smaller screens */
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    margin-top: 70px;
+}
+
+button {
+    background-color: #6200ea;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #3700b3;
+}
+
+.output {
+    margin-top: 20px;
+    white-space: pre-wrap;
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 8px;
+    font-size: 14px;
+    line-height: 1.6;
+    overflow-y: auto;
+    max-height: 400px; /* Set a max height for the output area */
+}
+
+.output-section {
+    margin-bottom: 20px;
+    padding: 10px;
+    border-left: 5px solid #6200ea;
+    background-color: #fafafa;
+    border-radius: 8px;
+}
+
+.output-section h2 {
+    margin: 0;
+    font-size: 18px;
+    color: #6200ea;
+}
+
+.output-section p {
+    margin: 5px 0;
+}
+
+.highlight {
+    background-color: #e3f2fd;
+    padding: 5px;
+    border-radius: 4px;
+    font-family: 'Courier New', Courier, monospace;
+    display: inline-block;
+}
