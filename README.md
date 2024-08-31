@@ -33,7 +33,9 @@ Check out the live demo: [dApp - Procurement Management](https://fetchai-fronten
 
 ## 📂 Directory Structure
 
+The project is organized as follows:
 
+```
 automated_procurement_management/
 ├── backend/
 │   ├── agents/
@@ -73,7 +75,7 @@ automated_procurement_management/
 │   └── package.json
 ├── .gitignore
 └── README.md
-
+```
 
 ## 📥 Installation
 
@@ -88,41 +90,41 @@ Ensure you have the following installed:
 
 1. *Clone the Repository:*
 
-   bash
+   ```bash
    git clone https://github.com/yourusername/automated-procurement-management.git
    cd automated-procurement-management
-   
+   ```
 
 2. *Set Up the Frontend:*
 
-   bash
+   ```bash
    cd frontend
    npm install
-   
+   ```
 
 3. *Set Up the Backend:*
 
-   bash
+   ```bash
    cd backend
    pip install -r requirements.txt
-   
+   ```   
 
 4. *Run the Backend:*
 
-   bash
+   ```bash
    python app.py
-   
+   ```
 
 5. *Run the Frontend:*
 
-   bash
+   ```bash
    cd ../frontend
    npm run dev
-   
+   ```
 
 6. *Access the Application:*
 
-   Open your browser and navigate to http://localhost:5173 to access the application.
+   Open your browser and navigate to `http://localhost:5173` to access the application.
 
 ## 📊 Agent Descriptions
 
@@ -140,28 +142,28 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 1. *Fork the repository:*
 
-   sh
+   ```sh
    git clone https://github.com/yourusername/automated-procurement-management.git
    cd automated-procurement-management
-   
+   ```
 
 2. *Create a new branch for your feature or bugfix:*
 
-   sh
+   ```sh
    git checkout -b feature-or-bugfix-name
-   
+   ```
 
 3. *Make your changes and commit them:*
 
-   sh
+   ```sh
    git commit -am 'Add new feature or fix'
-   
+   ```
 
 4. *Push your branch to GitHub:*
 
-   sh
+   ```sh
    git push origin feature-or-bugfix-name
-   
+   ```
 
 5. *Create a Pull Request:*
    - Go to the repository on GitHub.
