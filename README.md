@@ -183,4 +183,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## 📝 **Contact**
 
-For any questions or suggestions, please open an issue or contact [Your Name](mailto:mahideepnagireddi@gmail.com).
+For any questions or suggestions, please open an issue or contact [MahiDeep](mailto:mahideepnagireddi@gmail.com).
