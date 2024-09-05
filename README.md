@@ -149,17 +149,25 @@ Ensure you have the following installed:
 
 Explore the following diagrams to understand the system's architecture and design:
 
+- **Data Flow Diagram:**
+ 
+ ![Data Flow Diagram](data_flow.jpg)
+
 - **Class Diagram:**
- ![Class Diagram](class_diag.png)
+ 
+ ![Class Diagram](class_diag.jpg)
 - **Component Diagram:**
  
- ![Component Diagram](component_diag.png)
+ ![Component Diagram](component_diag.jpg)
 - **State Diagram:**
  
- ![State Diagram](state_diag.png)
+ ![State Diagram](state_diag.jpg)
 - **Activity Diagram:**
  
- ![Activity Diagram](activity_diag.png)
+ ![Activity Diagram](activity_diag.jpg)
+- **Sequence Diagram:**
+ 
+ ![Sequence Diagram](sequence.png) 
 
 ## 📽 Presentation
 
