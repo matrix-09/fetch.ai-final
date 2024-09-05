@@ -9,6 +9,16 @@ This project transforms procurement management by automating critical tasks with
 
 Experience the live demo: [dApp - Procurement Management](https://fetchai-frontend.netlify.app/)
 
+
+
+**⚠️ Note:** The current implementation is a work in progress. Final Prototype and Integration of agents with DeltaV is pending, but a comprehensive overview of the project can be explored through the [Automated Procurement Management Presentation](./fetch.ai_final.pdf) linked below.
+
+
+
+## 📖 Read Our Blog
+
+**[Read the Full Article](https://devpost.com/software/supply-chain-decentralization)** - Explore the intricacies of supply chain management, challenges faced during development, and future plans for the project
+
 ## 🌟 **Features**
 
 - **Automated Supplier Selection:** The supplier agent autonomously selects top suppliers and confirms orders based on inventory availability.
@@ -145,7 +155,7 @@ Ensure you have the following installed:
 - **Implementation Agent:** Oversees the deployment of procured items, ensuring they are correctly integrated into the supply chain.
 - **Business User Agent:** Manages procurement activities and aligns them with business objectives.
 
-## 📽 Diagrams
+## 💡 Diagrams
 
 Explore the following diagrams to understand the system's architecture and design:
 
