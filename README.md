@@ -145,6 +145,25 @@ Ensure you have the following installed:
 - **Implementation Agent:** Oversees the deployment of procured items, ensuring they are correctly integrated into the supply chain.
 - **Business User Agent:** Manages procurement activities and aligns them with business objectives.
 
+## 📽 Diagrams
+
+Explore the following diagrams to understand the system's architecture and design:
+
+- **Class Diagram:**
+ ![Class Diagram](class_diag.png)
+- **Component Diagram:**
+ 
+ ![Component Diagram](component_diag.png)
+- **State Diagram:**
+ 
+ ![State Diagram](state_diag.png)
+- **Activity Diagram:**
+ 
+ ![Activity Diagram](activity_diag.png)
+
+## 📽 Presentation
+
+For a detailed overview of the project's objectives, implementation, and future enhancements, please refer to the [Automated Procurement Management Presentation](./fetch.ai_final.pdf).
 ## 🤝 **Contributing**
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or new features.
